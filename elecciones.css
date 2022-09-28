@@ -1,0 +1,28 @@
+img{
+	width: 300px;
+	margin: 10px;
+
+}
+.container{
+	width: 700px;
+	margin: auto;
+	background: gray;
+	padding: 20px;
+}
+.container div{
+	
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+}
+.voto{
+	margin: 0 0 100px 0px;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+h2{
+	text-align: center;
+}
